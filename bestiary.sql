@@ -71,7 +71,7 @@ INSERT INTO `npc_info` VALUES (15,4,'Stitched Golem',59,60,101,137,3997,4120,0,0
 INSERT INTO `npc_info` VALUES (16,4,'Stitched Horror',57,58,98,132,3758,3876,0,0,3380,3435,0,0,0,0,0,0,'Mighty Blow');
 INSERT INTO `npc_info` VALUES (17,4,'Stitched Spewer',63,63,4119,5460,149895,149895,0,0,4691,4691,0,0,0,0,0,0,'Knockback, Slime Bolt, Slime Shot');
 INSERT INTO `npc_info` VALUES (18,4,'Venom Belcher',60,61,634,856,15260,15720,0,0,3791,4091,0,0,0,0,0,0,'Slowing Poison, Venom Spit');
-INSERT INTO `npc_info` VALUES (19,4,'Aborus',73,73,58435,119434,3794000,3794000,0,0,7684,7684,0,0,0,0,0,0,'Riptide, Massive Geyser');
+INSERT INTO `npc_info` VALUES (19,4,'Aborius',73,73,58435,119434,3794000,3794000,0,0,7684,7684,0,0,0,0,0,0,'Riptide, Massive Geyser');
 INSERT INTO `npc_info` VALUES (20,4,'Abyssal Flamebringer',70,71,252,363,6986,7181,0,0,6792,7089,0,0,0,0,0,0,'Abyssal Strike');
 INSERT INTO `npc_info` VALUES (21,4,'Burning Abyssal',70,70,1009,1428,2095800,2095800,0,0,6792,6792,0,0,0,0,0,0,'Fire Blast');
 INSERT INTO `npc_info` VALUES (22,4,'Gargantuan Abyssal',71,71,2823,3993,71810,71810,0,0,7089,7089,0,0,0,0,0,0,'Meteor, Fire Shield');
