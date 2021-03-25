@@ -1,6 +1,6 @@
 # BestiaryDB
 
-Attempt of putting all NPC information present in the World of Warcraft Bestiary in a database.
+Attempt to put all the NPC information present in the World of Warcraft Bestiary into a database.
 
 ## Contributing
 
