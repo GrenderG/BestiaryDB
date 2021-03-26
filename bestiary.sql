@@ -75,6 +75,13 @@ INSERT INTO `npc_info` VALUES (19,4,'Aborius',73,73,58435,119434,3794000,3794000
 INSERT INTO `npc_info` VALUES (20,4,'Abyssal Flamebringer',70,71,252,363,6986,7181,0,0,6792,7089,0,0,0,0,0,0,'Abyssal Strike');
 INSERT INTO `npc_info` VALUES (21,4,'Burning Abyssal',70,70,1009,1428,2095800,2095800,0,0,6792,6792,0,0,0,0,0,0,'Fire Blast');
 INSERT INTO `npc_info` VALUES (22,4,'Gargantuan Abyssal',71,71,2823,3993,71810,71810,0,0,7089,7089,0,0,0,0,0,0,'Meteor, Fire Shield');
+INSERT INTO `npc_info` VALUES (23,5,'Achellios the Banished',31,31,44,58,1308,1308,0,0,1234,1234,0,0,0,0,0,0,'Battle Shout');
+INSERT INTO `npc_info` VALUES (24,5,'Advisor Valwyn',15,15,22,29,344,344,0,0,677,677,0,0,0,0,0,0,'');
+INSERT INTO `npc_info` VALUES (25,5,'Advisor Faila',68,68,231,325,6542,6542,0,0,6192,6192,0,0,0,0,0,0,'');
+INSERT INTO `npc_info` VALUES (26,5,'Aean Swiftriver',22,22,54,72,1686,0,0,922,922,0,0,0,0,0,0,'');
+INSERT INTO `npc_info` VALUES (27,5,'Aeldon Sunbrand',30,30,27,36,774,774,2175,2175,654,654,0,0,0,0,0,0,'');
+INSERT INTO `npc_info` VALUES (28,5,'Advisor Sevel',60,60,290,384,2442,2442,2434,2434,3075,3075,0,0,0,0,0,0,'');
+INSERT INTO `npc_info` VALUES (29,5,'Aelmar the Vanquisher',60,60,290,384,7326,7326,7302,7302,3075,3075,0,0,0,0,0,0,'Consecration, Judgement of Command');
 /*!40000 ALTER TABLE `npc_info` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
