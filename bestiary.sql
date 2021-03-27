@@ -44,7 +44,7 @@ CREATE TABLE `npc_info` (
   `arcane_res` int(11) NOT NULL DEFAULT 0,
   `spell_desc` text NOT NULL DEFAULT '',
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=23 DEFAULT CHARSET=utf8mb4;
+) ENGINE=InnoDB AUTO_INCREMENT=35 DEFAULT CHARSET=utf8mb4;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -78,10 +78,15 @@ INSERT INTO `npc_info` VALUES (22,4,'Gargantuan Abyssal',71,71,2823,3993,71810,7
 INSERT INTO `npc_info` VALUES (23,5,'Achellios the Banished',31,31,44,58,1308,1308,0,0,1234,1234,0,0,0,0,0,0,'Battle Shout');
 INSERT INTO `npc_info` VALUES (24,5,'Advisor Valwyn',15,15,22,29,344,344,0,0,677,677,0,0,0,0,0,0,'');
 INSERT INTO `npc_info` VALUES (25,5,'Advisor Faila',68,68,231,325,6542,6542,0,0,6192,6192,0,0,0,0,0,0,'');
-INSERT INTO `npc_info` VALUES (26,5,'Aean Swiftriver',22,22,54,72,1686,0,0,922,922,0,0,0,0,0,0,'');
+INSERT INTO `npc_info` VALUES (26,5,'Aean Swiftriver',22,22,54,72,1686,1686,0,0,922,922,0,0,0,0,0,0,'');
 INSERT INTO `npc_info` VALUES (27,5,'Aeldon Sunbrand',30,30,27,36,774,774,2175,2175,654,654,0,0,0,0,0,0,'');
 INSERT INTO `npc_info` VALUES (28,5,'Advisor Sevel',60,60,290,384,2442,2442,2434,2434,3075,3075,0,0,0,0,0,0,'');
 INSERT INTO `npc_info` VALUES (29,5,'Aelmar the Vanquisher',60,60,290,384,7326,7326,7302,7302,3075,3075,0,0,0,0,0,0,'Consecration, Judgement of Command');
+INSERT INTO `npc_info` VALUES (30,6,'Aeman Brightsong',65,65,200,281,5914,5914,0,0,5291,5291,0,0,0,0,0,0,'');
+INSERT INTO `npc_info` VALUES (31,6,'Aendel Windspear',60,60,97,128,3297,3297,2434,2434,3075,3075,0,0,0,0,0,0,'Moonfire, Healing Touch');
+INSERT INTO `npc_info` VALUES (32,6,'Aeonus',72,72,2353,3327,147600,147600,0,0,7387,7387,0,0,0,0,0,0,'Time Stop, Sand Breath, Thrash, Cleave, Frenzy');
+INSERT INTO `npc_info` VALUES (33,6,'Aeranas',63,63,181,253,7461,7461,0,0,4691,4691,0,0,0,0,0,0,'Shock, Enveloping Winds');
+INSERT INTO `npc_info` VALUES (34,6,'Agathelos The Raging',27,27,65,87,6400,6400,0,0,1097,1097,0,0,0,0,0,0,'Rushing Charge, Rampage, Enrage, Left for Dead');
 /*!40000 ALTER TABLE `npc_info` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
